@@ -1,0 +1,100 @@
+*{
+    padding: 0;
+    margin: o;
+}
+body{
+    background: darkcyan;
+}
+a{
+    font-size: 26px;
+    font-family: cursive;
+    padding: 20px;
+    margin: 20px;
+    font-weight: bold;
+    text-decoration: none;
+    color: orange;
+    background: darkcyan;
+}
+a:hover{
+  transition: 0s; 
+  background: transparent; 
+  border: none;
+  border-bottom: 3 solid darkcyan;
+
+}
+.toi{
+    /* position: absolute; */
+    width: 100%;
+    height: 130px;
+    background: white;
+    box-shadow: 1px 1px 1px 1px darkcyan;
+}
+.wed{
+    position: absolute;
+    width: 100%;
+    height: 680px;
+    float: right;
+    top: 16%;
+    box-shadow: 0px 0px 400% 0px;
+}
+.RT{
+    position: absolute;
+    width: 445px;
+    height: 445px;
+    border-radius: 50%;
+    top: 26%;
+}
+.DFT{
+    position: absolute;
+    top: 37%;
+    left: 34%;
+    color: honeydew;
+
+}
+.o{
+    position: absolute;
+    top: 84%;
+    left: 28%;
+    width: 400px;
+    height: 300px;
+}
+.j{
+    position: absolute;
+    top: 84%;
+    height: 300px;
+    width: 400px;
+}
+.k{
+    position: absolute;
+    top: 84%;
+    height: 300px;
+    width: 370px;
+    left: 55%;
+} 
+.h{
+    position: absolute;
+    top: 84%;
+    height: 300px;
+    width: 300px;
+    left: 79%;
+}   
+.y{
+ position: absolute;
+ left: 69%;  
+ height: 447px; 
+ width: 447px;
+ border-radius: 50%;
+}  
+.m{
+    position: absolute;
+    top: 53%;
+    left: 34%;
+    width: 250px;
+    height: 245px;
+    border-radius: 48%;
+}
+.l{
+    position: absolute;
+    top: 127%;
+}
+
